@@ -7,6 +7,7 @@ body {
     height: 100vh;
     background-image: url(pattern.png), linear-gradient(45deg, #150124, #150124);
     margin: 0;
+    overflow: hidden;
 }
 
 .container{
