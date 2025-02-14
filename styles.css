@@ -19,7 +19,7 @@ body {
 }
 
 .imagens {
-    width: 80%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     /* background: red; */
@@ -27,7 +27,7 @@ body {
 }
 
 .foto{
-    max-width: 50%;
+    max-width: 55%;
     height: auto;
 }
 
